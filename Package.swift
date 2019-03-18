@@ -9,7 +9,7 @@ let package = Package(
     targets: [
         .target(
             name: "Parchment",
-            path: "Parchment",
+            path: "Parchment"
         )
     ]
 )
